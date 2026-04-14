@@ -12,6 +12,9 @@
 
 ERNIE-Image is an open text-to-image generation model developed by the ERNIE-Image team at Baidu. It is built on a single-stream Diffusion Transformer (DiT) and paired with a lightweight Prompt Enhancer that expands brief user inputs into richer structured descriptions. With only 8B DiT parameters, it reaches state-of-the-art performance among open-weight text-to-image models.
 
+![mosaic-ernie-image](https://github.com/user-attachments/assets/7797c3e6-87ef-4b53-b70e-446692fc6bdd)
+
+
 **Highlights:**
 
 - **Compact but strong**: Despite its compact 8B DiT scale, ERNIE-Image remains highly competitive with substantially larger open-weight models across a range of benchmarks.
