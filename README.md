@@ -199,7 +199,7 @@ uv pip install transformers==5.4.0
 
 mkdir ./ernie_image_pe
 # 将baidu/ERNIE-Image-Turbo目录下的pe和pe_tokenizer子目录文件同步到ernie_image_pe目录下
-cp -rfL ~/.cache/huggingface/hub/models--baidu--ERNIE-Image-Turbo/snapshots/*/pe*/* ./ernie_image_pe
+cp -rfnL ~/.cache/huggingface/hub/models--baidu--ERNIE-Image-Turbo/snapshots/*/pe*/* ./ernie_image_pe
 vllm serve ./ernie_image_pe --port 8888
 ```
 
