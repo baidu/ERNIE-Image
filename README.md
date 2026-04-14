@@ -252,7 +252,7 @@ curl -X POST http://localhost:30000/generate \
 
 ### Other Resources
 - The latest version of [ComfyUI](https://github.com/comfy-org/ComfyUI) now supports our model.
-- The latest version of [Unsloth](https://github.com/unslothai/unsloth) now supports our model.
+- [Unsloth](https://github.com/unslothai/unsloth) supports building GGUF weights for our model.
 - [AI-Toolkit](https://github.com/ostris/ai-toolkit) supports fine-tuning our model.
 
 ## Contacts
