@@ -272,13 +272,11 @@ If you have any questions or suggestions, please feel free to contact us:
 
 ## Star History
 
-## Star History
-
-<a href="https://www.star-history.com/?repos=baidu%2FERNIE-Image&type=date&legend=bottom-right">
+<a href="https://www.star-history.com/?repos=baidu%2FERNIE-Image&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=baidu/ERNIE-Image&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=baidu/ERNIE-Image&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=baidu/ERNIE-Image&type=date&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=baidu/ERNIE-Image&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=baidu/ERNIE-Image&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=baidu/ERNIE-Image&type=date&legend=top-left" />
  </picture>
 </a>
 
