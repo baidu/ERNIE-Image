@@ -251,7 +251,7 @@ curl -X POST http://localhost:30000/generate \
 | <details><summary>展开提示词</summary>盛夏午后的日本社区公园一角，树荫遮蔽下的石凳。石凳上静静放着一个晶莹剔透的玻璃金鱼缸，旁边是一副太阳镜、一个竹制杯垫和一把白色遮阳伞。石凳旁簇拥着盛开的紫蓝色绣球花，背景是略显模糊的向日葵田和社区游泳池的一抹清凉蓝色。画面呈现日系极简摄影美学，空气感十足，色调清新淡雅，光线柔和且略微过曝，阴影处带有清冷的蓝绿色调，高调照明，低对比度，构图洁净，带有细腻的胶片质感和宁静的夏日氛围。</summary></details> | <img src="assets/show_cases/showcase10.png" width="300"> |
 
 ### Other Resources
-- The latest version of [ComfyUI](https://github.com/comfy-org/ComfyUI) now supports our model.
+- [ComfyUI](https://github.com/comfy-org/ComfyUI) The latest version now supports our model.
 - [Unsloth](https://github.com/unslothai/unsloth) supports building GGUF weights for our model.
 - [AI-Toolkit](https://github.com/ostris/ai-toolkit) supports fine-tuning our model.
 
