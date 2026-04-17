@@ -174,7 +174,7 @@ sglang serve --model-path baidu/ERNIE-Image
 Send a generation request:
 
 ```bash
-curl -X POST http://localhost:30000/generate \
+curl -X POST http://localhost:30000/v1/images/generations \
   -H "Content-Type: application/json" \
   -d '{
     "prompt": "一只黑白相间的中华田园犬",
@@ -228,7 +228,7 @@ curl -X POST http://localhost:8888/v1/chat/completions \
 
 Stage2: Request the DiT model based on the revised prompt:
 ```bash
-curl -X POST http://localhost:30000/generate \
+curl -X POST http://localhost:30000/v1/images/generations \
   -H "Content-Type: application/json" \
   -d '{
     "prompt": {revised_propmt},
